@@ -20,7 +20,7 @@
 
 </div>
 
-A fork of [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) with multiple renderer windows, each with its own renderer process. This is basically an updated version of [this repo][https://github.com/jp887/electron-react-boilerplate] but incorporates multiple updates including webpack 5.
+A fork of [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) with multiple renderer windows, each with its own renderer process. This is basically an updated version of [this repo]((https://github.com/jp887/electron-react-boilerplate) but incorporates multiple updates including webpack 5.
 
 ## Install
 
